@@ -102,6 +102,7 @@
 }
 .dark-theme .services .item {
   background: #1c1c1c;
+  min-height: 220px;
 }
 .dark-theme .contact .info:hover .icon {
   background-color: #222;
